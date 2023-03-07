@@ -20,7 +20,6 @@
       grid-template-columns: repeat(2, minmax(auto, 352px));
       gap: 16px;
       max-width: calc(100% - 24px * 2);
-      margin-top: 88px;
   }
 }
 
