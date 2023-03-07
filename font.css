@@ -1,0 +1,11 @@
+/* @import url(./font/Inter-Black.otf);
+@import url(./font/Inter-Bold.otf);
+@import url(./font/Inter-Regular.otf); */
+
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    src: url(./fonts/Inter-Regular.woff2) format("woff2"),
+        url(./fonts/Inter-Regular.woff) format(woff);
+}

@@ -1,0 +1,15 @@
+.footer__link-list-par {
+    margin: 0;
+}
+
+@media screen and (max-width: 680px) {
+    .footer__link-list-par {
+        margin-bottom: 32px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .footer__link-list-par:last-child {
+        margin-bottom: 48px;
+    }
+}

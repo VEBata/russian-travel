@@ -1,0 +1,18 @@
+.intro__list {
+    max-width: 690px;
+    list-style-type: none;
+    margin: 33px 0 0;
+    padding: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .intro__list {
+        max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .intro__list {
+        max-width: 288px;
+    }
+}
